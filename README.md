@@ -1,6 +1,6 @@
 # SaveTheEarth-task-
 Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko.
-He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books.
+He first appeared in the anthology comic book Amazing Fantasy in the Silver Age of Comic Books.
 He appeared in American comic books published by Marvel Comics, as well as in a number of movies, television shows, and video game
 adaptations set in the Marvel Universe.Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May
 and Uncle Ben in New York City after his parents Richard and Mary Parker were killed in a plane crash. Lee and Ditko had the
